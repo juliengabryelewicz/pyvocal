@@ -1,0 +1,4 @@
+[Plugin]
+Name = search
+Version = 1.0.0
+Description = Recherche vocale sur wikipedia

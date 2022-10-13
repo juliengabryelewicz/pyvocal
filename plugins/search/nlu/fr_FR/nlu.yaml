@@ -1,0 +1,9 @@
+---
+name: askdefinition
+utterances:
+  - que signifie {searchword}
+  - Qui est {searchword}
+  - que peux-tu me dire sur {searchword}
+  - fais une recherche sur {searchword}
+  - qu'est-ce qu'un {searchword}
+  - qu'est-ce que la {searchword}

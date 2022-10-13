@@ -1,0 +1,17 @@
+---
+name: listbirthday
+utterances:
+  - donne ma liste d'anniversaire s'il te plait
+  - quelle est ma liste d'anniversiare
+  - quelles sont les personnes dans ma liste d'anniversaire
+---
+name: addbirthday
+utterances:
+  - Ajoute dans ma liste d'anniversaire {person} le {dateBirthday}
+  - Ajoute {person} le {dateBirthday} dans ma liste d'anniversaire
+---
+name: removebirthday
+utterances:
+  - Enlève {person} de ma liste d'anniversaire
+  - Retire {person} de ma liste d'anniversaire
+  - Peux-tu enlever {person} de ma liste d'anniversaire

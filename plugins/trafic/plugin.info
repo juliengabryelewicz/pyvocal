@@ -1,0 +1,4 @@
+[Plugin]
+Name = trafic
+Version = 1.0.0
+Description = Indication du trafic autoroutier via bison futé

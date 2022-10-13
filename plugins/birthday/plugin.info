@@ -1,0 +1,4 @@
+[Plugin]
+Name = birthday
+Version = 1.0.0
+Description = Rappel anniversaire

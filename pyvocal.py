@@ -1,0 +1,3 @@
+import pyvocal
+
+pyvocal.main()

@@ -1,0 +1,5 @@
+hotword : "janet"
+language : 'fr_FR'
+min_probability : 0.50
+sentence_welcome : "Que puis-je faire pour toi?"
+voice_id : "french"

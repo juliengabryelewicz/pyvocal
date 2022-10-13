@@ -1,0 +1,4 @@
+[Plugin]
+Name = meteo
+Version = 1.0.0
+Description = Indication météo
